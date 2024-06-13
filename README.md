@@ -112,10 +112,12 @@ python test_acc.py
 If you find our work helpful for your research, please consider citing our work.   
 
 ```bibtex
-@article{wang2024lvbench,
-  title={LVBench: An Extreme Long Video Understanding Benchmark},
-  author={Wang, Weihan and He, Zehai and Hong, Wenyi and Cheng, Yean and Zhang, Xiaohan and Qi, Ji and Huang, Shiyu and Xu, Bin and Dong, Yuxiao and Ding, Ming and Tang, Jie},
-  journal={arXiv preprint},
-  year={2024}
+@misc{wang2024lvbench,
+      title={LVBench: An Extreme Long Video Understanding Benchmark}, 
+      author={Weihan Wang and Zehai He and Wenyi Hong and Yean Cheng and Xiaohan Zhang and Ji Qi and Shiyu Huang and Bin Xu and Yuxiao Dong and Ming Ding and Jie Tang},
+      year={2024},
+      eprint={2406.08035},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
