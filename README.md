@@ -8,7 +8,7 @@
 ![LLaVA-NEXT](https://img.shields.io/badge/Model-LLaVA--NeXT-green)
 ![MovieChat](https://img.shields.io/badge/Model-MovieChat-green)
 
-<font size=7><div align='center' > [[🍎 Project Page](https://lvbench.github.io/)] [[📖 arXiv Paper](https://arxiv.org/pdf/xxx)] [[📊 Dataset](https://huggingface.co/datasets/THUDM/LVBench)][[🏆 Leaderboard](https://lvbench.github.io/#leaderboard)]  </div></font>
+<font size=7><div align='center' > [[🍎 Project Page](https://lvbench.github.io/)] [[📖 arXiv Paper](https://arxiv.org/abs/2406.08035)] [[📊 Dataset](https://huggingface.co/datasets/THUDM/LVBench)][[🏆 Leaderboard](https://lvbench.github.io/#leaderboard)]  </div></font>
 
 <p align="center">
     <img src="./docs/images/cover.png" width="96%" height="50%">
