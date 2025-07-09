@@ -53,7 +53,7 @@ Our dataset is under the CC-BY-NC-SA-4.0 license.
 LVBench is only used for academic research. Commercial use in any form is prohibited. We do not own the copyright of any
 raw video files.
 
-If there is any infringement in LVBench, please contact shiyu.huang@aminer.cn or directly raise an issue, and we will
+If there is any infringement in LVBench, please contact weihan.wang@aminer.cn or directly raise an issue, and we will
 remove it immediately.
 
 ### Download
